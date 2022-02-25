@@ -2,10 +2,12 @@
 <h1 align="center">("Olá Mundo!")</h1>
 <h3 align="center"> Uma estudante a entusiasta sobre o mundo tecnológico 🤓  </h3>
 
+ </div>
 <div align="center">
+ 
   <a href="https://github.com/dribeluci">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dribeluci&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dribeluci&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dribeluci&layout=compact&langs_count=7&theme=cobalt"/>
+
 
   
   <h1 align= "center">
