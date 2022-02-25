@@ -1,12 +1,11 @@
 
-<h1 align="center">("Olá Mundo!")</h1>
+<h1 align="center">"Olá Mundo!"
+<h4 align="center"> Uma estudante a entusiasta sobre o mundo tecnológico 🤓  </h4>
 
-<h3 align="center"> Uma estudante a entusiasta sobre o mundo tecnológico 🤓  </h3>
+ 
 
  
-<div align="center">
- 
- 
+ <div align="center">
   <a href="https://github.com/dribeluci">
    <div align="center">
     <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=dribeluci&show_icons=true&theme=dracula" />
