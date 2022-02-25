@@ -1,12 +1,17 @@
 
 <h1 align="center">("Olá Mundo!")</h1>
+
 <h3 align="center"> Uma estudante a entusiasta sobre o mundo tecnológico 🤓  </h3>
 
- </div>
+ 
 <div align="center">
  
+ 
   <a href="https://github.com/dribeluci">
+   <div align="center">
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dribeluci&layout=compact&langs_count=7&theme=cobalt"/>
+  <div align="center">
 
 
   
