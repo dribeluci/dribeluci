@@ -1,6 +1,6 @@
 
 <h1 align="center">"Olá Mundo!"👾
-<h5 align="center"> Estudante de ADS  --  Participando do Bootcamp  Generation FullStack Java --   Entusiasta à programação  </h5>
+<h5 align="center"> Estudante de ADS  --  Participando do Bootcamp  Generation FullStack Java --   Entusiasta  a programação  </h5>
 
  
 
