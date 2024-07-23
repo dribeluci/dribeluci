@@ -1,6 +1,6 @@
 
 <h1 align="center">"Olá Mundo!"👾
-<h5 align="center"> Estudante de ADS  --  UX/UI Designer --   Entusiasta  a programação  </h5>
+<h5 align="center">  </h5>
 
  
 
